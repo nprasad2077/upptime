@@ -26,7 +26,7 @@ sites:
   - name: Pokemon Match
     url: https://nprasad2077.github.io/project-1/lib/index.html
   - name: Angular Store
-    url: https://nprasad2077.github.io/storeAngular/home
+    url: https://nprasad2077.github.io/storeAngular/
     
 
 status-website:
