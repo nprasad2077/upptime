@@ -185,18 +185,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nprasad2077.github.io.ico",
     "slug": "angular-store",
     "status": "up",
-    "uptime": "1.92%",
-    "uptimeDay": "1.92%",
-    "uptimeWeek": "1.92%",
-    "uptimeMonth": "1.92%",
-    "uptimeYear": "1.92%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 16,
     "timeDay": 16,
     "timeWeek": 16,
     "timeMonth": 16,
     "timeYear": 16,
-    "dailyMinutesDown": {
-      "2023-09-08": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
