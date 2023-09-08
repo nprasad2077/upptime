@@ -9,8 +9,8 @@ sites:
     url: https://en.wikipedia.org
   - name: Hacker News
     url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  # - name: Test Broken Site
+  #   url: https://thissitedoesnotexist.koj.co
   - name: Portfolio
     url: https://nikhil.engineer/
   - name: NBA Stats
@@ -25,6 +25,8 @@ sites:
     url: https://github.com/nprasad2077/nasa_capstone
   - name: Pokemon Match
     url: https://nprasad2077.github.io/project-1/lib/index.html
+  - name: Angular Store
+    url: https://nprasad2077.github.io/storeAngular/home
     
 
 status-website:
