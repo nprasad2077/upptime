@@ -19,6 +19,13 @@ sites:
     url: https://nasa-capstone.vercel.app/
   - name: ProShop
     url: https://proshop-nikhil.herokuapp.com/
+  - name: iPhone GUI
+    url: https://apple-iphone-gui.netlify.app/
+  - name: Nasa Capstone V1
+    url: https://github.com/nprasad2077/nasa_capstone
+  - name: Pokemon Match
+    url: https://nprasad2077.github.io/project-1/lib/index.html
+    
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -27,10 +34,10 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. 
   navbar:
     - title: Status
-      href: /
+      href: https://nprasad2077.github.io/upptime/
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
