@@ -1,7 +1,7 @@
 url: https://nba-stats-beryl.vercel.app/
-status: up
-code: 200
-responseTime: 90
-lastUpdated: 2024-01-16T23:17:19.614Z
+status: down
+code: 500
+responseTime: 129
+lastUpdated: 2024-01-17T21:54:34.981Z
 startTime: 2023-09-08T04:18:10.000Z
 generator: Upptime <https://github.com/upptime/upptime>
