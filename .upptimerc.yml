@@ -25,9 +25,11 @@ sites:
     url: 'https://nprasad2077.github.io/storeAngular/'
   - name: NBA GraphQL
     url: 'http://209.38.172.107/graphql/'
+    __dangerous__insecure: true
   - name: Jupyter NBA
     url: 'https://jupyter-nba-c0195976e8f5.herokuapp.com/'
 status-website:
+  theme: night
   baseUrl: /upptime
   logoUrl: >-
     https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
