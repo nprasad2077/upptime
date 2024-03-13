@@ -25,8 +25,6 @@ sites:
     url: 'https://nprasad2077.github.io/storeAngular/'
   - name: NBA GraphQL
     url: 'http://209.38.172.107/admin/login/?next=/admin/'
-  - name: NBA GraphQL Admin
-    url: 'http://209.38.172.107/admin/'
   - name: Jupyter NBA
     url: 'https://jupyter-nba-c0195976e8f5.herokuapp.com/'
 status-website:
