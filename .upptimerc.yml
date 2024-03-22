@@ -24,7 +24,7 @@ sites:
   - name: Angular Store
     url: 'https://nprasad2077.github.io/storeAngular/'
   - name: NBA GraphQL API
-    url: 'https://nbaapi.com/graphql'
+    url: 'https://nbaapi.com/graphql/'
   - name: Jupyter NBA
     url: 'https://jupyter-nba-c0195976e8f5.herokuapp.com/'
 status-website:
