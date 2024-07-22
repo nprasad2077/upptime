@@ -219,18 +219,20 @@
     "url": "https://nbaapi.com/admin/login/?next=/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/nbaapi.com.ico",
     "slug": "nba-graph-ql-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 279,
-    "timeDay": 109,
-    "timeWeek": 295,
-    "timeMonth": 276,
-    "timeYear": 279,
-    "dailyMinutesDown": {}
+    "time": 278,
+    "timeDay": 143,
+    "timeWeek": 280,
+    "timeMonth": 273,
+    "timeYear": 278,
+    "dailyMinutesDown": {
+      "2024-07-22": 0
+    }
   },
   {
     "name": "Jupyter NBA",
