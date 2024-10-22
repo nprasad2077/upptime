@@ -71,10 +71,10 @@
     "url": "https://nikhil.engineer/",
     "icon": "https://icons.duckduckgo.com/ip3/nikhil.engineer.ico",
     "slug": "portfolio",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 351,
@@ -83,6 +83,7 @@
     "timeMonth": 387,
     "timeYear": 356,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-01-17": 29
     }
   },
@@ -91,10 +92,10 @@
     "url": "https://nba-stats-beryl.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/nba-stats-beryl.vercel.app.ico",
     "slug": "nba-stats",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
@@ -103,6 +104,7 @@
     "timeMonth": 142,
     "timeYear": 114,
     "dailyMinutesDown": {
+      "2024-10-22": 1,
       "2024-01-17": 18
     }
   },
@@ -111,9 +113,9 @@
     "url": "https://nasa-capstone.vercel.app/",
     "icon": "https://icons.duckduckgo.com/ip3/nasa-capstone.vercel.app.ico",
     "slug": "nasa-capstone",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -122,7 +124,9 @@
     "timeWeek": 112,
     "timeMonth": 99,
     "timeYear": 110,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-22": 0
+    }
   },
   {
     "name": "ProShop",
