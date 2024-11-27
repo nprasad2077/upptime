@@ -1,7 +1,7 @@
 url: https://nbaapi.com/admin/login/?next=/admin/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-11-27T10:40:12.757Z
+status: up
+code: 200
+responseTime: 285
+lastUpdated: 2024-11-27T11:09:05.761Z
 startTime: 2024-03-22T00:50:27.367Z
 generator: Upptime <https://github.com/upptime/upptime>
