@@ -11,14 +11,14 @@ sites:
     url: 'https://nikhil.engineer/'
   - name: NBA Stats
     url: 'https://nba-stats-beryl.vercel.app/'
+  - name: NBA Stats API
+    url: 'http://rest.nbaapi.com/index.html'
   - name: Nasa Capstone
     url: 'https://nasa-capstone.vercel.app/'
   - name: ProShop
     url: 'https://proshop-nikhil.herokuapp.com/'
   - name: iPhone GUI
     url: 'https://apple-iphone-gui.netlify.app/'
-  - name: Nasa Capstone V1
-    url: 'https://github.com/nprasad2077/nasa_capstone'
   - name: Pokemon Match
     url: 'https://nprasad2077.github.io/project-1/lib/index.html'
   - name: Angular Store
