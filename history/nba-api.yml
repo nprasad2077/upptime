@@ -1,3 +1,7 @@
-url: 'http://rest.nbaapi.com/index.html'
-status: true
-responseTime: true
+url: http://rest.nbaapi.com/index.html
+status: up
+code: 200
+responseTime: 1410
+lastUpdated: 2025-01-08T20:34:03.406Z
+startTime: 2025-01-08T20:34:01.993Z
+generator: Upptime <https://github.com/upptime/upptime>
