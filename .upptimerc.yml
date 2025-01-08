@@ -27,6 +27,8 @@ sites:
     url: 'https://nbaapi.com/admin/login/?next=/admin/'
   - name: Jupyter NBA
     url: 'https://jupyter-nba-c0195976e8f5.herokuapp.com/'
+  - name: NBA API
+    url: 'http://rest.nbaapi.com/index.html'
 status-website:
   theme: night
   baseUrl: /upptime
