@@ -166,19 +166,19 @@
     "url": "https://github.com/nprasad2077/nasa_capstone",
     "icon": "https://icons.duckduckgo.com/ip3/github.com.ico",
     "slug": "nasa-capstone-v1",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 488,
-    "timeDay": 5436,
-    "timeWeek": 1461,
-    "timeMonth": 763,
+    "status": "up",
+    "uptime": "99.85%",
+    "uptimeDay": "99.27%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
+    "time": 487,
+    "timeDay": 3731,
+    "timeWeek": 1357,
+    "timeMonth": 750,
     "timeYear": 503,
     "dailyMinutesDown": {
-      "2025-01-13": 0
+      "2025-01-13": 10
     }
   },
   {
