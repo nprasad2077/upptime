@@ -146,19 +146,19 @@
     "url": "https://apple-iphone-gui.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/apple-iphone-gui.netlify.app.ico",
     "slug": "i-phone-gui",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.35%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 140,
-    "timeWeek": 182,
-    "timeMonth": 138,
-    "timeYear": 130,
+    "time": 121,
+    "timeDay": 246,
+    "timeWeek": 213,
+    "timeMonth": 148,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 24
     }
   },
   {
