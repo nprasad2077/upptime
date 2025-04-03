@@ -127,18 +127,20 @@
     "url": "https://proshop-nikhil.herokuapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/proshop-nikhil.herokuapp.com.ico",
     "slug": "pro-shop",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
-    "timeDay": 265,
-    "timeWeek": 285,
-    "timeMonth": 174,
+    "timeDay": 204,
+    "timeWeek": 267,
+    "timeMonth": 173,
     "timeYear": 210,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "iPhone GUI",
@@ -242,18 +244,20 @@
     "url": "https://jupyter-nba-c0195976e8f5.herokuapp.com/",
     "icon": "https://icons.duckduckgo.com/ip3/jupyter-nba-c0195976e8f5.herokuapp.com.ico",
     "slug": "jupyter-nba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 213,
-    "timeDay": 253,
-    "timeWeek": 694,
-    "timeMonth": 331,
+    "time": 214,
+    "timeDay": 358,
+    "timeWeek": 665,
+    "timeMonth": 335,
     "timeYear": 204,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-04-03": 0
+    }
   },
   {
     "name": "NBA API",
