@@ -136,7 +136,7 @@
     "timeMonth": 284,
     "timeYear": 244,
     "dailyMinutesDown": {
-      "2025-07-13": 928,
+      "2025-07-13": 942,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -354,7 +354,7 @@
     "timeMonth": 243,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-07-13": 928,
+      "2025-07-13": 942,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
@@ -463,19 +463,19 @@
     "url": "http://rest.nbaapi.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/rest.nbaapi.com.ico",
     "slug": "nba-api",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.02%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "99.98%",
-    "time": 1784,
-    "timeDay": 215,
-    "timeWeek": 1362,
-    "timeMonth": 2628,
-    "timeYear": 1784,
+    "time": 1790,
+    "timeDay": 1540,
+    "timeWeek": 1529,
+    "timeMonth": 2635,
+    "timeYear": 1790,
     "dailyMinutesDown": {
-      "2025-07-13": 0,
+      "2025-07-13": 14,
       "2025-01-15": 50
     }
   }
