@@ -1,7 +1,7 @@
 url: http://rest.nbaapi.com/index.html
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-08-06T19:43:05.440Z
+status: up
+code: 200
+responseTime: 14901
+lastUpdated: 2025-08-06T20:17:59.213Z
 startTime: 2025-01-08T20:34:01.993Z
 generator: Upptime <https://github.com/upptime/upptime>
