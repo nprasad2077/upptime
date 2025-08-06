@@ -144,9 +144,9 @@
     "timeDay": 175,
     "timeWeek": 331,
     "timeMonth": 272,
-    "timeYear": 252,
+    "timeYear": 253,
     "dailyMinutesDown": {
-      "2025-08-06": 1377,
+      "2025-08-06": 1402,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -309,7 +309,7 @@
     "timeDay": 530,
     "timeWeek": 523,
     "timeMonth": 480,
-    "timeYear": 505,
+    "timeYear": 506,
     "dailyMinutesDown": {}
   },
   {
@@ -363,7 +363,7 @@
     "timeDay": 251,
     "timeWeek": 229,
     "timeMonth": 236,
-    "timeYear": 254,
+    "timeYear": 253,
     "dailyMinutesDown": {
       "2025-03-23": 105,
       "2025-03-22": 501,
@@ -385,9 +385,9 @@
     "timeDay": 451,
     "timeWeek": 340,
     "timeMonth": 250,
-    "timeYear": 245,
+    "timeYear": 246,
     "dailyMinutesDown": {
-      "2025-08-06": 1377,
+      "2025-08-06": 1402,
       "2025-08-05": 1440,
       "2025-08-04": 1440,
       "2025-08-03": 1440,
@@ -520,19 +520,19 @@
     "url": "http://rest.nbaapi.com/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/rest.nbaapi.com.ico",
     "slug": "nba-api",
-    "status": "down",
-    "uptime": "99.94%",
-    "uptimeDay": "90.28%",
-    "uptimeWeek": "98.61%",
-    "uptimeMonth": "99.68%",
-    "uptimeYear": "99.94%",
-    "time": 1687,
-    "timeDay": 3918,
-    "timeWeek": 1668,
-    "timeMonth": 1097,
-    "timeYear": 1687,
+    "status": "up",
+    "uptime": "99.93%",
+    "uptimeDay": "88.57%",
+    "uptimeWeek": "98.37%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.93%",
+    "time": 1680,
+    "timeDay": 3169,
+    "timeWeek": 1532,
+    "timeMonth": 1072,
+    "timeYear": 1680,
     "dailyMinutesDown": {
-      "2025-08-06": 139,
+      "2025-08-06": 164,
       "2025-01-15": 50
     }
   }
