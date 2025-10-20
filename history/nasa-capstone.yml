@@ -1,7 +1,7 @@
 url: https://nasa-capstone.vercel.app/
-status: up
-code: 200
-responseTime: 115
-lastUpdated: 2025-10-19T23:20:13.241Z
+status: down
+code: 500
+responseTime: 3245
+lastUpdated: 2025-10-20T06:50:05.736Z
 startTime: 2023-09-08T04:18:11.000Z
 generator: Upptime <https://github.com/upptime/upptime>
