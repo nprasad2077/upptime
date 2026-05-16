@@ -15,6 +15,7 @@ sites:
     url: https://nba-stats-beryl.vercel.app/
   - name: Nasa Capstone
     url: https://nasa-capstone.vercel.app/
+    icon: https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/nasa.ico
   - name: iPhone GUI
     url: https://apple-iphone-gui.netlify.app/
   - name: Pokemon Match
@@ -23,6 +24,7 @@ sites:
     url: https://nprasad2077.github.io/storeAngular/
   - name: Nasa Capstone V1
     url: https://github.com/nprasad2077/nasa_capstone
+    icon: https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/nasa.ico
   - name: Medicare Enrollment Dashboard
     url: https://medicare-enrollment-dashboard.vercel.app/
   - name: NBA API (.NET)
