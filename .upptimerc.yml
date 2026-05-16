@@ -1,48 +1,51 @@
 owner: nprasad2077
 repo: upptime
+user-agent: nprasad2077
+
 sites:
   - name: Google
-    url: 'https://www.google.com'
+    url: https://www.google.com
   - name: Wikipedia
-    url: 'https://en.wikipedia.org'
+    url: https://en.wikipedia.org
   - name: Hacker News
-    url: 'https://news.ycombinator.com'
+    url: https://news.ycombinator.com
   - name: Portfolio
-    url: 'https://nikhil.engineer/'
+    url: https://nikhil.engineer/
   - name: NBA Stats
-    url: 'https://nba-stats-beryl.vercel.app/'
+    url: https://nba-stats-beryl.vercel.app/
   - name: Nasa Capstone
-    url: 'https://nasa-capstone.vercel.app/'
-  - name: ProShop
-    url: 'https://proshop-nikhil.herokuapp.com/'
+    url: https://nasa-capstone.vercel.app/
   - name: iPhone GUI
-    url: 'https://apple-iphone-gui.netlify.app/'
-  - name: Nasa Capstone V1
-    url: 'https://github.com/nprasad2077/nasa_capstone'
+    url: https://apple-iphone-gui.netlify.app/
   - name: Pokemon Match
-    url: 'https://nprasad2077.github.io/project-1/lib/index.html'
+    url: https://nprasad2077.github.io/project-1/lib/index.html
   - name: Angular Store
-    url: 'https://nprasad2077.github.io/storeAngular/'
-  - name: NBA GraphQL API
-    url: 'https://nbaapi.com/admin/login/?next=/admin/'
-  - name: Jupyter NBA
-    url: 'https://jupyter-nba-c0195976e8f5.herokuapp.com/'
-  - name: NBA API
-    url: 'http://rest.nbaapi.com/index.html'
+    url: https://nprasad2077.github.io/storeAngular/
+  - name: Nasa Capstone V1
+    url: https://github.com/nprasad2077/nasa_capstone
+  - name: Medicare Enrollment Dashboard
+    url: https://medicare-enrollment-dashboard.vercel.app/
+  - name: NBA API (.NET)
+    url: https://api.server.nbaapi.com/swagger/index.html
+  - name: NBA API (Go)
+    url: https://nbago.server.nbaapi.com/swagger/index.html
+  - name: NBA Go API Response
+    url: https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false
+    expectedStatusCodes:
+      - 200
+
 status-website:
   theme: night
   baseUrl: /upptime
-  logoUrl: >-
-    https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: >-
-    **Upptime** is the open-source uptime monitor and status page, powered
-    entirely by GitHub.
+  name: Nikhil's Status Page
+  introTitle: "**Nikhil Prasad** — Project Status Monitor"
   introMessage: >-
-    This is a status page that displays real time data. No server required —
-    just GitHub Actions, Issues, and Pages.
+    Real-time uptime monitoring for my portfolio projects and APIs.
+    Powered by [Upptime](https://github.com/upptime/upptime) — no server required.
   navbar:
     - title: Status
-      href: 'https://nprasad2077.github.io/upptime/'
+      href: /upptime/
     - title: GitHub
-      href: 'https://github.com/$OWNER/$REPO'
+      href: https://github.com/nprasad2077/upptime
+    - title: Portfolio
+      href: https://nikhil.engineer/
