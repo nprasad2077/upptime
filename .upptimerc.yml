@@ -3,6 +3,14 @@ repo: upptime
 user-agent: nprasad2077
 
 sites:
+  - name: Medicare Enrollment Dashboard
+    url: https://medicare-enrollment-dashboard.vercel.app/
+  - name: NBA API (.NET)
+    url: https://api.server.nbaapi.com/swagger/index.html
+  - name: NBA API (Go)
+    url: https://nbago.server.nbaapi.com/swagger/index.html
+  - name: NBA Go API Response
+    url: https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false
   - name: Google
     url: https://www.google.com
   - name: Wikipedia
@@ -25,14 +33,6 @@ sites:
   - name: Nasa Capstone V1
     url: https://github.com/nprasad2077/nasa_capstone
     icon: https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/nasa.ico
-  - name: Medicare Enrollment Dashboard
-    url: https://medicare-enrollment-dashboard.vercel.app/
-  - name: NBA API (.NET)
-    url: https://api.server.nbaapi.com/swagger/index.html
-  - name: NBA API (Go)
-    url: https://nbago.server.nbaapi.com/swagger/index.html
-  - name: NBA Go API Response
-    url: https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false
     expectedStatusCodes:
       - 200
 
