@@ -22,54 +22,60 @@
     "url": "https://api.server.nbaapi.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api.server.nbaapi.com.ico",
     "slug": "nba-api-net",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 229,
-    "timeDay": 302,
-    "timeWeek": 249,
+    "time": 228,
+    "timeDay": 251,
+    "timeWeek": 242,
     "timeMonth": 211,
-    "timeYear": 229,
-    "dailyMinutesDown": {}
+    "timeYear": 228,
+    "dailyMinutesDown": {
+      "2026-06-19": 1
+    }
   },
   {
     "name": "NBA API (Go)",
     "url": "https://nbago.server.nbaapi.com/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/nbago.server.nbaapi.com.ico",
     "slug": "nba-api-go",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 222,
-    "timeDay": 294,
-    "timeWeek": 227,
-    "timeMonth": 214,
-    "timeYear": 222,
-    "dailyMinutesDown": {}
+    "time": 221,
+    "timeDay": 231,
+    "timeWeek": 220,
+    "timeMonth": 213,
+    "timeYear": 221,
+    "dailyMinutesDown": {
+      "2026-06-19": 0
+    }
   },
   {
     "name": "NBA Go API Response",
     "url": "https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false",
     "icon": "https://icons.duckduckgo.com/ip3/nbago.server.nbaapi.com.ico",
     "slug": "nba-go-api-response",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 198,
-    "timeDay": 225,
-    "timeWeek": 239,
-    "timeMonth": 192,
+    "timeDay": 206,
+    "timeWeek": 233,
+    "timeMonth": 191,
     "timeYear": 198,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-06-19": 0
+    }
   },
   {
     "name": "Google",
