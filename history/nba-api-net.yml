@@ -1,7 +1,7 @@
 url: https://api.server.nbaapi.com/swagger/index.html
-status: down
-code: 503
-responseTime: 199
-lastUpdated: 2026-06-19T08:15:48.153Z
+status: up
+code: 200
+responseTime: 157
+lastUpdated: 2026-06-19T12:25:11.341Z
 startTime: 2026-05-16T06:08:58.580Z
 generator: Upptime <https://github.com/upptime/upptime>
