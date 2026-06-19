@@ -1,7 +1,7 @@
 url: https://nbago.server.nbaapi.com/swagger/index.html
-status: up
-code: 200
-responseTime: 294
-lastUpdated: 2026-06-19T01:45:35.278Z
+status: down
+code: 503
+responseTime: 167
+lastUpdated: 2026-06-19T08:16:02.354Z
 startTime: 2026-05-16T06:08:59.157Z
 generator: Upptime <https://github.com/upptime/upptime>
