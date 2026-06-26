@@ -66,21 +66,21 @@
     "url": "https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false",
     "icon": "https://icons.duckduckgo.com/ip3/nbago.server.nbaapi.com.ico",
     "slug": "nba-go-api-response",
-    "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "87.08%",
-    "uptimeWeek": "96.13%",
-    "uptimeMonth": "98.54%",
-    "uptimeYear": "98.93%",
-    "time": 196,
-    "timeDay": 225,
-    "timeWeek": 199,
-    "timeMonth": 194,
-    "timeYear": 196,
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "64.84%",
+    "uptimeWeek": "92.96%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "98.40%",
+    "time": 198,
+    "timeDay": 237,
+    "timeWeek": 206,
+    "timeMonth": 196,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2026-06-19": 249,
       "2026-06-24": 204,
-      "2026-06-26": 186
+      "2026-06-26": 506
     }
   },
   {
