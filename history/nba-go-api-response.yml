@@ -1,7 +1,7 @@
 url: https://nbago.server.nbaapi.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false
-status: down
-code: 503
-responseTime: 114
-lastUpdated: 2026-06-26T08:07:02.833Z
+status: up
+code: 200
+responseTime: 143
+lastUpdated: 2026-06-26T11:12:56.894Z
 startTime: 2026-05-16T06:08:59.826Z
 generator: Upptime <https://github.com/upptime/upptime>
