@@ -6,8 +6,6 @@ sites:
   - name: Medicare Enrollment Dashboard
     url: https://medicare-enrollment-dashboard.vercel.app/
     icon: https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/medical-history-doctor-192.png
-  - name: 🏀 NBA Dashboard
-    url: https://dbtnba.streamlit.app/#league-pulse-2025-26
   - name: NBA API (.NET)
     url: https://api.server.nbaapi.com/swagger/index.html
   - name: NBA API (Go)
