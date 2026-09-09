@@ -37,7 +37,7 @@ sites:
     expectedStatusCodes:
       - 200
   - name: NBA Go API Response (Hetzner)
-    url: https://zzzvfdlzd9lf0nazopmow4df.178.105.149.129.sslip.io/api/games?page=1&pageSize=50&sortBy=date&ascending=false
+    url: https://zzzvfdlzd9lf0nazopmow4df.178.105.149.129.sslip.io/api/games?page=1&pageSize=5&sortBy=date&ascending=false
     icon: https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/swagger.svg
 
 status-website:
