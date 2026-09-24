@@ -336,21 +336,21 @@
     "url": "https://nba.turbo-data.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false",
     "icon": "https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/swagger.svg",
     "slug": "nba-go-api-response-hetzner",
-    "status": "down",
-    "uptime": "92.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "92.52%",
-    "uptimeYear": "92.52%",
-    "time": 1220,
-    "timeDay": 9882,
-    "timeWeek": 2910,
-    "timeMonth": 1220,
-    "timeYear": 1220,
+    "status": "up",
+    "uptime": "91.74%",
+    "uptimeDay": "86.58%",
+    "uptimeWeek": "98.08%",
+    "uptimeMonth": "91.74%",
+    "uptimeYear": "91.74%",
+    "time": 1178,
+    "timeDay": 6631,
+    "timeWeek": 2602,
+    "timeMonth": 1178,
+    "timeYear": 1178,
     "dailyMinutesDown": {
       "2026-09-10": 839,
       "2026-09-09": 846,
-      "2026-09-24": 1
+      "2026-09-24": 193
     }
   }
 ]
