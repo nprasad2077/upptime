@@ -299,17 +299,17 @@
     "url": "https://github.com/nprasad2077/nasa_capstone",
     "icon": "https://raw.githubusercontent.com/nprasad2077/upptime/master/assets/nasa.ico",
     "slug": "nasa-capstone-v1",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "71.91%",
-    "uptimeWeek": "95.99%",
-    "uptimeMonth": "98.48%",
+    "uptimeDay": "71.87%",
+    "uptimeWeek": "95.98%",
+    "uptimeMonth": "98.47%",
     "uptimeYear": "99.84%",
     "time": 631,
-    "timeDay": 526,
-    "timeWeek": 630,
-    "timeMonth": 616,
-    "timeYear": 702,
+    "timeDay": 398,
+    "timeWeek": 568,
+    "timeMonth": 599,
+    "timeYear": 700,
     "dailyMinutesDown": {
       "2025-12-16": 29,
       "2025-12-17": 19,
@@ -318,7 +318,8 @@
       "2026-03-27": 59,
       "2026-04-18": 45,
       "2026-10-14": 263,
-      "2026-11-08": 404
+      "2026-11-08": 404,
+      "2026-11-09": 1
     }
   },
   {
