@@ -1,7 +1,7 @@
 url: https://nba.turbo-data.com/api/games?page=1&pageSize=5&sortBy=date&ascending=false
 status: up
 code: 200
-responseTime: 93
-lastUpdated: 2026-11-27T04:52:48.488Z
+responseTime: 102
+lastUpdated: 2026-11-28T04:37:38.642Z
 startTime: 2026-09-09T03:45:36.309Z
 generator: Upptime <https://github.com/upptime/upptime>
